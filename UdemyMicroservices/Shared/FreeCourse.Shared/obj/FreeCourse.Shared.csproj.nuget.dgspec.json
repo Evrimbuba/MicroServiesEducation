@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\evrim\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {}
+    "C:\\Users\\evrim\\Source\\Repos\\MicroServicesEducation\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\evrim\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
+    "C:\\Users\\evrim\\Source\\Repos\\MicroServicesEducation\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evrim\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\evrim\\Source\\Repos\\MicroServicesEducation\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
         "projectName": "FreeCourse.Shared",
-        "projectPath": "C:\\Users\\evrim\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+        "projectPath": "C:\\Users\\evrim\\Source\\Repos\\MicroServicesEducation\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
         "packagesPath": "C:\\Users\\evrim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\evrim\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\obj\\",
+        "outputPath": "C:\\Users\\evrim\\Source\\Repos\\MicroServicesEducation\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,11 +54,14 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

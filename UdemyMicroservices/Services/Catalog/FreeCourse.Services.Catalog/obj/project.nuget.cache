@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t7Mn7llctVBrIMsub4AJnwhg7NzRhQEou0XLcJn8q3KMstrZSWhj4c8srpK/VPBEDuX7Rj8XXBuqKoTexNLd9w==",
+  "dgSpecHash": "L5I3vowOP8CLcL1ToP/7ij9u4hRuTnGLwXT3TLj+ycbCUtahK1ABXEi3N+5lD9ACUsi50TizjeYSKynV3u4Adg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\evrim\\source\\repos\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
+  "projectFilePath": "C:\\Users\\evrim\\Source\\Repos\\MicroServicesEducation\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evrim\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\evrim\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

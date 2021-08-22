@@ -1,7 +1,7 @@
 ﻿namespace FreeCourse.Services.Catalog.Settings
 {
-    // Options Settings Pattern
-    internal interface IDatabaseSettings
+    //  Options Settings Pattern
+    public interface IDatabaseSettings
     {
         public string CourseCollectionName { get; set; }
         public string CategoryCollectionName { get; set; }

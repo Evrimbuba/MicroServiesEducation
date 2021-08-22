@@ -1,2 +1,13 @@
 Servies
 <catalogAPI https/http> 5011,5012
+Design Patternlarý Bir Þekilde Kaydetmek Lazým Yada Sitemi Yapýnca Kesinlikle Tek Tek Blog Paylaþýmlarý Yapýlmalý.
+Doðru Http Cevap Durum Kodlarý
+(response status codes)
+1- 200 Ok
+2- 201 Created
+3- 204 NoContent
+4- 400 BadRequest
+5- 401 Unauthorized
+6- 403 Forbid
+7- 404 NotFound
+8- 500 Internal Server Error

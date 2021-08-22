@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WprZFSxFO6nb4/loF6UOQhSwUJ+rsmGc6eXMhMowS40cph0EZPr25qCsTScrbKxUcwc6j6/sm5cEVlg9mkh+mw==",
+  "dgSpecHash": "DDl8JF2BjQ7XIAGGSZ5+f1kDnKzOX/dRbT9HnyNp6zGDVDwcuSfIJrH3Vkn0/SbF39vLfWzkDrnSp1qlRLqrig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\evrim\\source\\repos\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+  "projectFilePath": "C:\\Users\\evrim\\Source\\Repos\\MicroServicesEducation\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
